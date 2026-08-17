@@ -1,4 +1,4 @@
-'''#48 Rotate Image
+'''yr#48 Rotate Image
 from typing import List
 def rotate(mat: list[list[int]]) -> None:
     n = len(mat)
