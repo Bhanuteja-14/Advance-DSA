@@ -1,3 +1,4 @@
+'''
 #876 Middle of the Linked List
 class Solution:
     def middleNode(self, head: ListNode | None) -> ListNode | None:
@@ -78,3 +79,4 @@ class Solution:
         else:
             temp.next = list2
         return new_node.next
+'''
